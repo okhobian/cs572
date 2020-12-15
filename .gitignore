@@ -23,6 +23,7 @@
 hs_err_pid*
 
 
+<<<<<<< HEAD
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -74,3 +75,6 @@ fabric.properties
 
 # *.iml
 # modules.xml
+=======
+.idea
+>>>>>>> 9f19520a52e48e3f65da83ef9f31c02b798d20f7
